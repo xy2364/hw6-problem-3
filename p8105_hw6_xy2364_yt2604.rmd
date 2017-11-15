@@ -1,0 +1,26 @@
+---
+title: "p8105_hw6_xy2364_yt2604"
+author: "Xin Yin and Yuqi Tu"
+date: "11/15/2017"
+output: html_document
+---
+
+In Problems 1 and 2, I worked with Yuqi Tu (UNI: yt2604).
+
+### Problem 1
+
+The webpage containing our solution to this problem is [here](https://tuyuqi.github.io/p8105_hw6_yt2604/).
+
+
+### Problem 2
+
+The webpage containing the solution to this problem is [here]()
+
+### Problem 3
+The GitHub repo(s) that underly our dashboards and the webpage is below:  
+[GitHub repo for problem 1]()  
+[Github repo for problem 2]()
+
+
+
+
