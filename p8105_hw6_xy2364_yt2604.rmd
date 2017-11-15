@@ -9,19 +9,23 @@ In Problems 1 and 2, I worked with Yuqi Tu (UNI: yt2604).
 
 ### Problem 1
 The webpage containing our solution to this problem is [here](https://tuyuqi.github.io/p8105_hw6_yt2604/).   
-Description: In this problem, we have three different analyses from the Instacart dataset and the results are shown as three interactive graphics respectively on a single webpage.  
-The first graph: In New York City, online grocery service is popular for people to shop online from local stores. We extract the data of each department of grocery service and calculate the number of items ordered in each of them by using "groupby" and "summarize". A donut chart has been made to show the relative percentages of items ordered from each department. We found that among 21 departments of food in grocery shops, the Produce (29.5%), Dairy eggs(15.7%), Snacks(8.58%), Beverages(8.24%) and Frozen (7.25%) departments have much more ordered items than other departments, while Bulk (0.13%), Pets(0.32%), and Alcohol(0.40%) department have much fewer ordered items. 
-The Second graph: This histogram plot analyzes the hour of the day on which the order was placed for Household Department and we also use a density trace to see how it goes. We filter the data of Household Department and select the order of hours to analyze.The results show that that every day before 9am, there are not many order placed from the household department but it's increasing. At around 9am, orders placed reach the maximum from the household department and then decreases for the rest of the day 
+**Description:** In this problem, we have three different analyses from the Instacart dataset and the results are shown as three interactive graphics respectively on a single webpage.  
+**The first graph:** In New York City, online grocery service is popular for people to shop online from local stores. We extract the data of each department of grocery service and calculate the number of items ordered in each of them by using "groupby" and "summarize". A donut chart has been made to show the relative percentages of items ordered from each department. We found that among 21 departments of food in grocery shops, the Produce (29.5%), Dairy eggs(15.7%), Snacks(8.58%), Beverages(8.24%) and Frozen (7.25%) departments have much more ordered items than other departments, while Bulk (0.13%), Pets(0.32%), and Alcohol(0.40%) department have much fewer ordered items.   
+**The Second graph:** This histogram plot analyzes the hour of the day on which the order was placed for Household Department and we also use a density trace to see how it goes. We filter the data of Household Department and select the order of hours to analyze.The results show that that every day before 9am, there are not many order placed from the household department but it's increasing. At around 9am, orders placed reach the maximum from the household department and then decreases for the rest of the day.  
+**The Third graph:** This line plot shows the order hour of the day on which the order was placed, the number of times an item was ordered from a certain aisle at that particular hour and also the pattern of purchase time of different aisles. We use select, groupby and summarize to extract the data we need. The resulting line plot shows that for all the aisles, they have the similar purchase pattern associated with time, which people ordered more during daytime. The top 3 aisles from which people ordered the most are fresh vegetables, fresh fruits, packaged vegetables. 
+
 
 
 ### Problem 2
+The webpage containing the solution to this problem is [here]().  
+**Description**: We create a shiny-enabled dashboard based on the work in Problem 1. We include two distinct widget types, which are slider inputs for "The Number of Items Ordered within Each Department" plot in Chart A and numeric inputs for "The Associtaion of Order Hour and Frequency for Different Aisles" plot in Chart C. The reason why we did not attach a widget for Chart B is because the data for Chart B is not large enough to be able to apply a widget to extract further useful information. 
 
-The webpage containing the solution to this problem is [here]()
 
 ### Problem 3
 The GitHub repo(s) that underly our dashboards and the webpage is below:  
-[GitHub repo for problem 1]()  
-[Github repo for problem 2]()
+[GitHub repo for problem 1](https://github.com/tuyuqi/p8105_hw6_yt2604)  
+[Github repo for problem 2](https://github.com/tuyuqi/p8105_hw6_yt2604_xy2364_problem2)  
+[Github repo for problem 3]()
 
 
 
