@@ -1,0 +1,12 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Flexdashboard"
+      href: https://tuyuqi.github.io/p8105_hw6_yt2604/
+    - text: "Shiny"
+      href: https://tuyuqi.shinyapps.io/hw6_problem_2/
+
+output:
+  html_document
