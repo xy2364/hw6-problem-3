@@ -3,7 +3,7 @@ title: "p8105_hw6_xy2364_yt2604"
 author: "Xin Yin and Yuqi Tu"
 ---
 
-In Problems 1 and 2, I worked with Yuqi Tu (UNI: yt2604).
+I worked with Yuqi Tu (UNI: yt2604) for this homework.
 
 ### Problem 1
 The webpage containing our solution to this problem is [here](https://tuyuqi.github.io/p8105_hw6_yt2604/).   
